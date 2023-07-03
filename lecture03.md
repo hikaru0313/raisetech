@@ -13,7 +13,7 @@
         - MySQl version8.0.33
     - DB サーバーを終了させた場合、引き続きアクセスできますか？
         - できない
-        - ![DBサーバーを終了させたとき](https://github.com/hikaru0313/raisetech/assets/137602355/bc64be98-7e40-4667-a98a-99d16ec04736）
+        - ![DBサーバーを終了させたとき](https://github.com/hikaru0313/raisetech/assets/137602355/bc64be98-7e40-4667-a98a-99d16ec04736)
 - Rails の構成管理ツールの名前は何でしたか？
     - bundler
 - 今回の課題から学んだことを報告してください。
