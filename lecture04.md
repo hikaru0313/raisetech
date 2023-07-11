@@ -1,9 +1,9 @@
 # AWS第4回課題
 - VPCの作成
-- ![VPC作成](https://github.com/hikaru0313/raisetech/assets/137602355/d32c5d1b-3fd0-43cf-954d-37fec3f390e1)
+![VPC作成](images/VPC作成.png)
 - EC2の作成
-- ![EC2作成](https://github.com/hikaru0313/raisetech/assets/137602355/ee04228d-8ef7-4a56-ab47-34840cfab29d)
+![EC2作成](images/EC2作成.png)
 - RDSの作成
-- ![RDS作成](https://github.com/hikaru0313/raisetech/assets/137602355/1f751eef-5567-4395-94ec-24c31af11204)
+![RDS作成](images/RDS作成.png)
 - EC2からRDSへの接続
-- ![EC2_RDS](https://github.com/hikaru0313/raisetech/assets/137602355/3d0692c9-ddc6-4b93-b04f-973d5d80fc82)
+![EC2_RDS](images/EC2からRDS接続.png)
