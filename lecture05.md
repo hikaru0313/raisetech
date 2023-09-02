@@ -1,6 +1,6 @@
 # AWS第5回課題
 - 組み込みサーバーのみで起動
-![組み込みサーバーのみで起動](lecture05/01_組み込みサーバーのみで起動.png)
+![組み込みサーバーのみで起動](lecture05/lecture05構成図_修正.png)
 - Unicornを用いて起動
 ![Unicornを用いて起動](lecture05/02_unicornを用いて起動.png)
 - UnicornとNginxで起動
