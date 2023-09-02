@@ -1,6 +1,6 @@
 # AWS第5回課題
 - 組み込みサーバーのみで起動
-![組み込みサーバーのみで起動](lecture05/lecture05構成図_修正.png)
+![組み込みサーバーのみで起動](lecture05/01_組み込みサーバーのみで起動.png)
 - Unicornを用いて起動
 ![Unicornを用いて起動](lecture05/02_unicornを用いて起動.png)
 - UnicornとNginxで起動
@@ -12,4 +12,4 @@
 - S3をアプリケーションの画像データ保存先として使用し、アプリケーションを起動
 ![S3_画像保存](lecture05/06_S3をデータ保管先に設定.png)
 - 構成図の作成
-![構成図](lecture05/lecture05構成図.jpg)
+![構成図](lecture05/lecture05構成図_修正.png)
